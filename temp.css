@@ -52,7 +52,6 @@ input::placeholder {
     color: crimson;
 }
 
-/* Responsive CSS */
 @media (min-width: 600px) {
     .container {
         width: 70%;
